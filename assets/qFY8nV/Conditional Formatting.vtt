@@ -1,0 +1,85 @@
+﻿WEBVTT
+
+00:00:00.190 --> 00:00:02.390
+En primer lugar, seleccionaremos los
+
+00:00:02.390 --> 00:00:03.910
+datos a los que quieres aplicar el formato
+
+00:00:03.910 --> 00:00:04.630
+condicional.
+
+00:00:05.118 --> 00:00:07.078
+Seleccionemos la columna B, por ejemplo.
+
+00:00:07.518 --> 00:00:09.198
+Haz clic en «Formato condicional» en la
+
+00:00:09.198 --> 00:00:09.758
+pestaña «Inicio».
+
+00:00:10.855 --> 00:00:13.055
+Ahora definamos los criterios que
+
+00:00:13.055 --> 00:00:15.335
+activarán las reglas del formato. Puedes
+
+00:00:15.335 --> 00:00:16.975
+eligir entre reglas como resaltar
+
+00:00:16.975 --> 00:00:19.135
+valores mayores que un cierto número o
+
+00:00:19.135 --> 00:00:20.695
+que con un texto específico.
+
+00:00:21.175 --> 00:00:23.415
+Seleccionemos «Texto que contiene».
+
+00:00:24.571 --> 00:00:27.131
+En la sección del cuadro de diálogo, define tus
+
+00:00:27.131 --> 00:00:29.691
+criterios. Por ejemplo, si quiere
+
+00:00:29.691 --> 00:00:31.451
+resaltar las celdas que contengan la palabra
+
+00:00:31.451 --> 00:00:34.411
+«High», escribe «High» en el cuadro de texto y
+
+00:00:34.411 --> 00:00:37.131
+selecciona «con relleno rojo y texto rojo oscuro».
+
+00:00:38.483 --> 00:00:40.503
+Puedes repetir el proceso para las palabras
+
+00:00:40.503 --> 00:00:43.243
+«Medium» y «Low» y elegir los
+
+00:00:43.243 --> 00:00:45.003
+colores con los que deseas formatearlas.
+
+00:00:50.250 --> 00:00:52.010
+Deberías ver que todas las celdas que contengan
+
+00:00:52.010 --> 00:00:54.210
+la palabra «High» ahora están resaltadas
+
+00:00:54.210 --> 00:00:56.530
+como has elegido, etc., por lo que se activará
+
+00:00:56.530 --> 00:00:58.450
+la priorización visual instantánea de
+
+00:00:58.450 --> 00:00:59.210
+datos importantes.
+
+00:00:59.714 --> 00:01:01.994
+Esta regla también ajustará automáticamente
+
+00:01:01.994 --> 00:01:04.354
+el formato de cualquier entrada nueva que coincida
+
+00:01:04.354 --> 00:01:05.634
+con las palabras clave especificadas.

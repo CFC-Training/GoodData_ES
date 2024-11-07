@@ -1,0 +1,61 @@
+﻿WEBVTT
+
+00:00:00.150 --> 00:00:02.750
+Para empezar, añade una nueva hoja al archivo
+
+00:00:02.750 --> 00:00:04.830
+de Excel en la parte inferior. Haz doble clic para
+
+00:00:04.830 --> 00:00:06.590
+nombrarla «Tabla estructurada».
+
+00:00:08.593 --> 00:00:11.033
+Selecciona los datos de la columna A haciendo clic
+
+00:00:11.033 --> 00:00:13.633
+y arrastrando el cursor sobre ella desde la fila
+
+00:00:13.633 --> 00:00:16.353
+uno hasta la siete, haz clic con el botón derecho y selecciona «Copiar».
+
+00:00:17.924 --> 00:00:19.884
+Ve a la nueva hoja y haz clic con el botón derecho
+
+00:00:19.884 --> 00:00:22.644
+en la celda A1. En las opciones de pegado, selecciona 
+
+00:00:22.644 --> 00:00:25.444
+«Transponer». Los datos almacenados en filas ahora
+
+00:00:25.444 --> 00:00:27.324
+se copiarán en varias columnas.
+
+00:00:43.237 --> 00:00:45.997
+Ahora selecciona todos los datos y cópialos y pégalos
+
+00:00:45.997 --> 00:00:48.837
+en la nueva hoja, en la celda A2, usando
+
+00:00:48.837 --> 00:00:50.877
+de nuevo la opción de pegado «Transponer».
+
+00:00:53.673 --> 00:00:55.873
+Ahora tus datos estarán correctamente formateados
+
+00:00:55.873 --> 00:00:58.273
+en filas y columnas. Solo tienes que cambiar
+
+00:00:58.273 --> 00:01:01.233
+el valor en A1 de «datos» a «año», para que
+
+00:01:01.233 --> 00:01:02.993
+la columna esté correctamente etiquetada.
+
+00:01:03.457 --> 00:01:06.217
+Por último, selecciona todos tus datos y formatéalos
+
+00:01:06.217 --> 00:01:08.337
+en una tabla utilizando uno de los métodos
+
+00:01:08.337 --> 00:01:10.137
+aprendidos en el ejercicio anterior.

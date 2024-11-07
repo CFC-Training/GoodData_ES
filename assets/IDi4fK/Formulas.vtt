@@ -1,0 +1,121 @@
+﻿WEBVTT
+
+00:00:00.190 --> 00:00:01.990
+Pongamos que quieres calcular la cantidad
+
+00:00:01.990 --> 00:00:04.030
+total de avistamientos para este tipo de rana.
+
+00:00:05.517 --> 00:00:07.997
+Comienza la fórmula con el signo igual y
+
+00:00:07.997 --> 00:00:09.037
+escribe el nombre de la función.
+
+00:00:10.716 --> 00:00:12.396
+La función que queremos usar es la función «suma»
+
+00:00:12.396 --> 00:00:14.636
+o adición. Comienza con el igual y la función «suma».
+
+00:00:15.084 --> 00:00:17.044
+Luego selecciona las celdas o introduce sus
+
+00:00:17.044 --> 00:00:20.004
+referencias dentro de los paréntesis. Termina
+
+00:00:20.004 --> 00:00:21.524
+cerrando los paréntesis.
+
+00:00:22.345 --> 00:00:24.785
+Una vez completada la fórmula, pulsa
+
+00:00:24.785 --> 00:00:26.545
+«Intro» y listo.
+
+00:00:27.888 --> 00:00:29.608
+Ahora veamos una fórmula más
+
+00:00:29.608 --> 00:00:31.816
+complicada. Si quieres contar el número de
+
+00:00:31.816 --> 00:00:33.696
+veces que esta especie de rana se
+
+00:00:33.696 --> 00:00:35.976
+registró con un alto nivel de confianza,
+
+00:00:35.976 --> 00:00:37.416
+puedes usar la función «sumar.si».
+
+00:00:37.920 --> 00:00:39.280
+Haz clic en la celda en la que quieras
+
+00:00:39.280 --> 00:00:40.160
+que aparezca el resultado.
+
+00:00:40.584 --> 00:00:42.344
+Escribe el igual y «sumar.si» para empezar la
+
+00:00:42.344 --> 00:00:42.824
+fórmula.
+
+00:00:43.784 --> 00:00:45.664
+Luego selecciona el rango que contenga los
+
+00:00:45.664 --> 00:00:47.344
+nombres de las especies, la columna A.
+
+00:00:48.048 --> 00:00:50.448
+Escribe una coma y, luego, entre comillas,
+
+00:00:50.448 --> 00:00:52.488
+especifica el nombre de la especie que
+
+00:00:52.488 --> 00:00:53.208
+te interesa.
+
+00:00:53.592 --> 00:00:56.352
+Como puedes ver, Excel mostrará una pista
+
+00:00:56.352 --> 00:00:58.632
+bajo la fórmula, para que
+
+00:00:58.632 --> 00:00:59.992
+la escribas con el formato correcto.
+
+00:01:00.504 --> 00:01:03.144
+Para continuar, escribe otra coma para añadir el
+
+00:01:03.144 --> 00:01:05.544
+2.º rango de criterios, que sería el
+
+00:01:05.544 --> 00:01:07.264
+el nivel de confianza, la columna B en la
+
+00:01:07.264 --> 00:01:07.904
+hoja de trabajo.
+
+00:01:08.328 --> 00:01:10.808
+Escribe la coma final y, entre comillas,
+
+00:01:10.808 --> 00:01:13.608
+pon el nivel de confianza deseado: '
+
+00:01:13.608 --> 00:01:14.008
+alto'.
+
+00:01:14.711 --> 00:01:16.671
+Arrastra la esquina de la celda hacia abajo para
+
+00:01:16.671 --> 00:01:18.911
+replicar la fórmula. A continuación, ajusta el
+
+00:01:18.911 --> 00:01:21.111
+nivel de confianza entrecomillado a '
+
+00:01:21.231 --> 00:01:23.831
+Medio' o 'Bajo' para
+
+00:01:23.831 --> 00:01:25.311
+obtener los recuentos correspondientes.
